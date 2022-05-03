@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Letmeask"/>
+    Letmeask
 </h1>
 
 <br>
@@ -19,13 +19,12 @@ Clone the project and access its folder.
 ```bash
 $ git clone https://github.com/RMNGarcia/letmeask
 ```
-
 To start it, follow the steps below:
 ```bash
 # Install dependencies
 $ yarn
 
-<h3>Start the project<h3/>
+Start the project
 $ yarn start
 ```
 The app will be available in your browser by URL http://localhost:3000.
