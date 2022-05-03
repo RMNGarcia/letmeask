@@ -2,8 +2,6 @@
     Letmeask
 </h1>
 
-<br>
-
 <h2>Technologies<h2/>
 
 This project was developed with the following technologies:
