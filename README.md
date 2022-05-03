@@ -16,54 +16,48 @@
 
 <br>
 
-## 🧪 Tecnologias
+Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Como executar
+How to use
 
-Clone o projeto e acesse a pasta do mesmo.
+Clone the project and access its folder.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/RMNGarcia/letmeask
+
 ```
 
-Para iniciá-lo, siga os passos abaixo:
+To start it, follow the steps below:
 ```bash
-# Instalar as dependências
+# Install dependencies
 $ yarn
 
-# Iniciar o projeto
+# Start the project
 $ yarn start
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+The app estará will be available in your browser by URL http://localhost:3000.
 
-Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
+Remember it will be necessary criate a Firebase account on (https://firebase.google.com/) and one project to available a Realtime Database.
 
-## 💻 Projeto
+Project
 
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
-
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
+Letmeask is perfect for content creators to be able to create Q&A rooms with their audience, in a very organized and democratic way. 
 
 
-## 🔖 Layout
+Layout
 
-Você pode visualizar o layout do projeto através do link abaixo:
+You can view the layout of the project through the link below:
 
 - [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) 
 
-Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
+Remember that you need to an account on [Figma](http://figma.com/).
 
-## 📝 License
+License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
+This project is under the MIT license. see the file [LICENSE](LICENSE.md) for more details.
